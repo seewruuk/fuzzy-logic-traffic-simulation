@@ -77,7 +77,7 @@ Wyjście systemu rozmytego
    - medium (średnio): Umiarkowane natężenie ruchu (30-90).
    - high (dużo): Wysokie natężenie ruchu (80-120).
   
-4. Dla wyjścia:
+**Dla wyjścia:**
    - green_duration:
      - short (krótki): Krótki czas zielonego światła (5-25 sekund).
      - medium (średni): Średni czas zielonego światła (20-50 sekund).
