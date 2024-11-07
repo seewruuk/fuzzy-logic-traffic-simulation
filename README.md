@@ -10,6 +10,8 @@ Projekt został stworzony przez:
 - Michał Jastrzemski s26245
 
 ![fuzzy-logic-1](https://github.com/user-attachments/assets/693d7f67-b74e-4c57-97b9-de24bcbd2af1)
+![image](https://github.com/user-attachments/assets/d98f14be-14b1-4b38-a673-a6df48071f10)
+
 
 
 ## Wymagania
