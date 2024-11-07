@@ -1,4 +1,4 @@
-# Symulacja skrzyżowania sterowana logiką rozmytą
+![image](https://github.com/user-attachments/assets/41270ea7-b78a-4fc7-9072-38ea7c5f4ae0)# Symulacja skrzyżowania sterowana logiką rozmytą
 
 ## Opis projektu
 
@@ -60,6 +60,7 @@ Wejścia systemu rozmytego
 Wyjście systemu rozmytego
 - **green_duration**: Czas trwania zielonego światła dla aktualnej fazy sygnalizacji
 
+
 ## Funkcje przynależności (Membership Functions)
 
 **Dla wejść:**
@@ -82,6 +83,8 @@ Wyjście systemu rozmytego
      - medium (średni): Średni czas zielonego światła (20-50 sekund).
      - long (długi): Długi czas zielonego światła (45-60 sekund).
     
+![image](https://github.com/user-attachments/assets/29d18e13-8d8a-48df-b1c9-e9459f4d4ca7)
+
 
 ## Przykład działania
 
