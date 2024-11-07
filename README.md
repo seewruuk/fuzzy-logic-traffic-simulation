@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/41270ea7-b78a-4fc7-9072-38ea7c5f4ae0)# Symulacja skrzyżowania sterowana logiką rozmytą
+# Symulacja skrzyżowania sterowana logiką rozmytą
 
 ## Opis projektu
 
