@@ -9,6 +9,9 @@ Projekt został stworzony przez:
 - Kacper Sewruk s23466
 - Michał Jastrzemski s26245
 
+![fuzzy-logic-1](https://github.com/user-attachments/assets/693d7f67-b74e-4c57-97b9-de24bcbd2af1)
+
+
 ## Wymagania
 
 - Python 3.x
