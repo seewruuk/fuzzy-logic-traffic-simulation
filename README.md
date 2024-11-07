@@ -14,7 +14,7 @@ Projekt został stworzony przez:
 
 (w symulacji obowiązuje ruch **lewostronny** dlatego światła dla danego pasa znajdują się na przeciwko po lewej stronie)
 
-Symulacja gry, którą wykorzystaliśmy: 
+Symulacja, którą wykorzystaliśmy: 
 https://github.com/mihir-m-gandhi/Basic-Traffic-Intersection-Simulation?tab=readme-ov-file
 
 
